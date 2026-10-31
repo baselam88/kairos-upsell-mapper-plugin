@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Maps the upsell offered at maximum buying energy: the next problem the purchase just created \u2014 more of it, a better version, or the missing piece.",
+  "keywords": [
+    "kairos",
+    "mapper",
+    "small business",
+    "upsell"
+  ],
+  "license": "MIT",
+  "name": "kairos-upsell-mapper",
+  "repository": "https://github.com/baselam88/kairos-upsell-mapper-plugin",
+  "version": "0.1.0"
+}
